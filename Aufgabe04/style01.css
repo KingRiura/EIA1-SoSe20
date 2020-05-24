@@ -12,18 +12,16 @@ body {
     margin-bottom: auto;
     margin-top:200px;
     justify-content: center;
-    
     }
-    
+
     img.penguin{
     position: absolute;
     bottom:-17px;
     margin-left: 270px;
     display: inline-block;
-    
     }
     
-    img.shell{
+    img.vongola{
         position: absolute;
         bottom:-17px;
         margin-left: -230px;
