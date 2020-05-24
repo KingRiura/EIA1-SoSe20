@@ -1,0 +1,26 @@
+body{
+    background-image: url("station7/bg.png");
+}
+.postcard{
+    height: 400px;
+    width: 600px;
+    margin-top: 300px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    position:relative;
+}
+
+.postcard>.banderole{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.AYAYA{
+    display: inline-block;
+    position: absolute;
+    margin: 35px;
+    margin-top: 40px;
+}
